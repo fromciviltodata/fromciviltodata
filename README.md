@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm fromciviltodata!
 
-<!--
-**fromciviltodata/fromciviltodata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm passionate about uncovering insights from data and believe that **data is the new oxygen**. With hands-on skills in **SQL, Excel, PowerBI, Tableau, and MS Office**, I'm working towards becoming a professional Data Analyst—especially interested in projects within **finance** and **healthcare**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- SQL & Excel
+- PowerBI & Tableau
+- MS Office Suite
+
+## 🎯 Interests & Goals
+- Currently learning and experimenting with new software and technologies.
+- Love watching movies and exploring how data impacts various industries.
+- On a journey to transition fully into data analytics.
+
+## 💡 Favorite Quote
+> "Love data. Data is the new oxygen."
+
+## 🌱 Latest Projects
+I'm especially interested in projects related to finance and healthcare. Stay tuned for some exciting repositories coming soon!
+
+## 📫 How to reach me
+www.linkedin.com/in/ektamistri
+
+---
+
+Thanks for visiting my profile! Feel free to connect or collaborate, especially if you share a love for data and movies.
